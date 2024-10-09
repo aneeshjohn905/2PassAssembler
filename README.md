@@ -34,3 +34,6 @@ RESW 02\
 RESB 03
 
 
+![Alt text](images/Home.png)
+![Alt text](images/Output.png)
+![Alt text](images/Selection Screen.png)
