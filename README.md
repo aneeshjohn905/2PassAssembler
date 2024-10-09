@@ -18,7 +18,7 @@ This project implements a Two-Pass Assembler in Java with a graphical user inter
 - Java Development Kit (JDK) 8 or higher
 - IDE for Java development (e.g., IntelliJ IDEA, Eclipse)
 
-##Example input
+## Example input
 
 START 1000
 FIRST STL  ALPHA\
@@ -26,7 +26,7 @@ FIRST STL  ALPHA\
 ALPHA RESW  1\
 \-      END  FIRST\
 
-##Example Optab
+## Example Optab
 
 STL  14
 WORD 00
