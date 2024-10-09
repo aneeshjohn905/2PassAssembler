@@ -35,5 +35,5 @@ RESB 03
 
 
 ![Alt text](images/Home.png)
-![Alt text](images/Output.png)
 ![Alt text](images/SelectionScreen.png)
+![Alt text](images/Output.png)
