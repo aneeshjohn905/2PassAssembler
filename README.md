@@ -20,7 +20,7 @@ This project implements a Two-Pass Assembler in Java with a graphical user inter
 
 ## Example input
 
-START 1000
+START 1000\
 FIRST STL  ALPHA\
 \-      WORD  10\
 ALPHA RESW  1\
