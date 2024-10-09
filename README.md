@@ -24,7 +24,7 @@ START 1000\
 FIRST STL  ALPHA\
 \-      WORD  10\
 ALPHA RESW  1\
-\-      END  FIRST\
+\-      END  FIRST
 
 ## Example Optab
 
