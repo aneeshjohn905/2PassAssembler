@@ -28,9 +28,9 @@ ALPHA RESW  1\
 
 ## Example Optab
 
-STL  14
-WORD 00
-RESW 02
-RESB 03
+STL  14\
+WORD 00\
+RESW 02\
+RESB 03\
 
 
